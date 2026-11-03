@@ -1,0 +1,17 @@
+.git
+.git/**
+.gitignore
+.gitattributes
+.assetsignore
+README.md
+README.public.md
+wrangler.jsonc
+wrangler.json
+wrangler.toml
+node_modules
+.env*
+**/*-original.png
+HANDOFF.md
+AGENTS.md
+PRD.md
+docs
