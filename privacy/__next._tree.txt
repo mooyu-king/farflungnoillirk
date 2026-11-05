@@ -1,4 +1,4 @@
 :HL["/_next/static/css/7f2f5901eba5a96f.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"d","k":"privacy","s":["_not-found","_global-error","games","robots.txt","sitemap.xml"]},"h":96,"c":"$Q2"}]]
-0:{"b":"ZxiD5qpFvnv2TQwZopOyy","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"wN_68wNi2XJgzrTiwCw2r","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
