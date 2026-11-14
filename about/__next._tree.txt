@@ -1,4 +1,4 @@
 :HL["/_next/static/css/7d038a25d43d044a.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"slug","t":"d","k":"about","s":["_not-found","_global-error","eraly-game","games","robots.txt","sitemap.xml"]},"h":96,"c":"$Q2"}]]
-0:{"b":"FgTZweR14TtH-lJ9U2de8","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"l0Bsn3CSt_yZtldvy5d2G","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
