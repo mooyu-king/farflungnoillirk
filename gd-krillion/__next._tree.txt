@@ -1,0 +1,5 @@
+:HL["/_next/static/css/86e074255d9ac3d8.css","style"]
+:HL["/_next/static/css/965066ef5ae6808a.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"gd-krillion","h":96,"c":"$Q2"}]]
+0:{"b":"RvbVxOlYH7cnVlYBFObWN","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
