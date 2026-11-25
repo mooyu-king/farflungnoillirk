@@ -1,4 +1,4 @@
 :HL["/_next/static/css/86e074255d9ac3d8.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
-1:[["children",{"s":{"n":"slug","t":"d","k":"register","s":["_not-found","_global-error","eraly-game","games","gd-krillion","medical-krillion","robots.txt","sitemap.xml"]},"h":96,"c":"$Q2"}]]
-0:{"b":"RvbVxOlYH7cnVlYBFObWN","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+1:[["children",{"s":{"n":"slug","t":"d","k":"register","s":["_not-found","_global-error","eraly-game","football-krillion","games","gd-krillion","medical-krillion","robots.txt","sitemap.xml"]},"h":96,"c":"$Q2"}]]
+0:{"b":"NLpdtM40A2MKvH4SHdHUr","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
