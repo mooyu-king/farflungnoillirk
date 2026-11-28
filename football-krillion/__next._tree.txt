@@ -2,4 +2,4 @@
 :HL["/_next/static/css/83464c8563b37049.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"football-krillion","h":96,"c":"$Q2"}]]
-0:{"b":"NLpdtM40A2MKvH4SHdHUr","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"_gMS4OAA2uo2P48aHBgxO","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
